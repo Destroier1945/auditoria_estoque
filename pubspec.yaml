@@ -33,9 +33,12 @@ dependencies:
   barcode_scan2: ^4.1.5
   path_provider: ^2.0.11
   permission_handler: ^10.0.0
+  provider:
+
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
+  sqflite: ^2.3.3+1
 
 dev_dependencies:
   flutter_test:

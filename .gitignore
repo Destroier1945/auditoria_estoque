@@ -77,3 +77,7 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 >>>>>>> f743966 (Inicializando o projeto)
+./android
+./web
+./windows
+./ios
